@@ -8,4 +8,4 @@
     - A pop up will open up. Click on New Notebook on the bottom right of the screen. 
     - You are ready to code!
 
-![new_notebook](https://github.com/bloominstituteoftechnology/code_along_main/blob/main/DS_Core/Orientation/Sprint_0/Code_Along_1/learner/assets/new_notebook_arrow.png?raw=true)
+![new_notebook](https://github.com/bloominstituteoftechnology/ds_code_along_0.1_ds_fundamentals_starter/blob/main/assets/new_notebook_arrow.png?raw=true)
