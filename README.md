@@ -1,2 +1,2 @@
-# ds_code_along_0.1_ds_fundamentals_starter
+# DS Code-Along 0.1 - Data Science Fundamentals
 Colab notebooks for BloomTech Data Science Orientation materials
