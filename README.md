@@ -1,4 +1,4 @@
-# Orientation Code Along
+# Distribution Function Code Along
 
 ## Set Up
 - For this Code-Along, you can either open a blank notebook on Google Colab or Jupyter Notebook, or you can follow along with the [Code-Along notebook](https://github.com/bloominstituteoftechnology/ds_code_along_0.1_ds_fundamentals_starter/blob/main/0.1_Distribution_Function_Blank_Notebook.ipynb). **Make sure to create a copy of the notebook on your drive.** 
